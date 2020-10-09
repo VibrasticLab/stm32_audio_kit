@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name ESP8266)(type KiCad)(uri /usr/share/kicad/userlib/footprints/ESP8266.pretty)(options "")(descr ""))
+  (lib (name mic)(type KiCad)(uri ${KIPRJMOD}/lib/mic/mic.pretty)(options "")(descr ""))
+  (lib (name stm32f429i-disco)(type KiCad)(uri ${KIPRJMOD}/lib/stm32f429i-disco)(options "")(descr ""))
+  (lib (name user)(type KiCad)(uri /usr/share/kicad/userlib/footprints/user)(options "")(descr ""))
+  (lib (name dacmax98)(type KiCad)(uri ${KIPRJMOD}/lib/dacmax98.pretty)(options "")(descr ""))
+)

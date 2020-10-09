@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name ESP8266)(type Legacy)(uri /usr/share/kicad/userlib/symbols/user/ESP8266.lib)(options "")(descr ""))
+  (lib (name sph0645)(type Legacy)(uri ${KIPRJMOD}/lib/mic/mic_lib/sph0645.lib)(options "")(descr ""))
+  (lib (name STM32F429I-DISC1)(type Legacy)(uri ${KIPRJMOD}/lib/stm32f429i-disco/STM32F429I-DISC1.lib)(options "")(descr ""))
+  (lib (name dacmax98)(type Legacy)(uri ${KIPRJMOD}/lib/dacmax98/dacmax98.lib)(options "")(descr ""))
+)
